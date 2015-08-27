@@ -1,4 +1,5 @@
 #include "unity/unity.h"
+#include "src/LedDriver.h"
 
 TEST_GROUP(LedDriver)
 
